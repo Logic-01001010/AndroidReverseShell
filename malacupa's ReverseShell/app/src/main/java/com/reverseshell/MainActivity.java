@@ -19,9 +19,6 @@ import java.net.Socket;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static Socket c_socket = null;
-    private static Process p = null;
-
 
     // change these to values to your liking
     private final static String HOST = "192.168.0.16";
